@@ -1,0 +1,11 @@
+com\rbc\task\stockmarket\config\CustomConfig.class
+com\rbc\task\stockmarket\StockData\ReadStockData.class
+com\rbc\task\stockmarket\vo\DataSetBulkUploadVo.class
+com\rbc\task\stockmarket\batch\AsyncExecutor.class
+com\rbc\task\stockmarket\repositories\StockDao.class
+com\rbc\task\stockmarket\StockMarketApplication.class
+com\rbc\task\stockmarket\vo\DataSetVo.class
+com\rbc\task\stockmarket\resource\StockController.class
+com\rbc\task\stockmarket\batch\ProcessDataSetBatchProcess.class
+com\rbc\task\stockmarket\service\StockService.class
+com\rbc\task\stockmarket\dto\DataSetDto.class
